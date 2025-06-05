@@ -6,7 +6,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
+//Click on Link to download selenium jar file 
+//Links is  dymanic elemenet
 public class Dynamic {
 
 	public static void main(String[] args) {
