@@ -2,7 +2,7 @@ package Java;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedCondition;
-
+//Custom Exceptions or user defined exceptions
 public class mycondition implements ExpectedCondition <Boolean> {
 	String exp;
 	String act;
