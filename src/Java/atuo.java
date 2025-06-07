@@ -11,7 +11,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-
+//Sort Auto suggession in alphabetical order
 public class atuo {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
