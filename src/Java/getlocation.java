@@ -3,7 +3,7 @@ package Java;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-
+//get location of User and password text field
 public class getlocation {
 
 	public static void main(String[] args) {
