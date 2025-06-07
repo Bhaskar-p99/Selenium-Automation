@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-
+//Check Radio button is select 
 public class isselcetd {
 	public static void main (String[] args) throws InterruptedException
 	{
