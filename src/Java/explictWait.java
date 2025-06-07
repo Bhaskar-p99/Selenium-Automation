@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import io.netty.handler.timeout.TimeoutException;
-
+//Synchronization (Implicit wait and Explicit wait)
 public class explictWait {
 
 	public static void main(String[] args) {
