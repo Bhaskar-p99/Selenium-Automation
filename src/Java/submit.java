@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-
+//use for submit the form
 public class submit {
 	public static void main (String []args) throws InterruptedException {
 		System.setProperty("webdriver,chromedriver", "./drivers/chromedriver.exe");
