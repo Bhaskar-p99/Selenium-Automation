@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import io.netty.handler.timeout.TimeoutException;
-
+//Click on dynamic link
 public class dynamicxpath {
 
 	public static void main(String[] args) {
