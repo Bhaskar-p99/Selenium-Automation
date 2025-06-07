@@ -2,7 +2,7 @@ package customexpectedcondition;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedCondition;
-
+//Custom or user defiend Expected Condition
 public class Mycondition implements ExpectedCondition<Boolean>{
 	
 	@Override
